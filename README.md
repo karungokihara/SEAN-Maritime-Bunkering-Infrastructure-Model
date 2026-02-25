@@ -19,7 +19,10 @@ The model tracks the stock of **Availability of Bunkering Infra** for each count
 * **Key Interdependencies:** Analyzes how infrastructure availability feeds back into the national level of investment.
 
 ### Model Visualization
-![ASEAN Model Structure](./IMAGE.PNG)
+
+
+![ASEAN Model Structure](https://raw.githubusercontent.com/karungokihara/SEAN-Maritime-Bunkering-Infrastructure-Model/main/IMAGE.png)
+
 
 ## 📂 Repository Contents
 * `ASEAN_Bunkering_Model.mdl`: The Vensim source file.
